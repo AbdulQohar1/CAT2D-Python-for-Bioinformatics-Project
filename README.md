@@ -12,7 +12,7 @@ This project re-implements a Linux-based bioinformatics workflow in Python to id
 Sources of reproduced workflows: 
 On GitHub: https://github.com/Fredrick-Kakembo/Somatic-and-Germline-variant-Identification-from-Tumor-and-normal-Sample-Pairs
 
-There's a ([report](https://docs.google.com/document/d/1JAIOBHPqU7JYxFztsD6F1roz6BJmerrtpcXdrsqHXRM/edit?usp=sharing))  here that describes the steps involved, software packages used, and data used to test the script.
+There's a [report](https://docs.google.com/document/d/1JAIOBHPqU7JYxFztsD6F1roz6BJmerrtpcXdrsqHXRM/edit?usp=sharing)  here that describes the steps involved, software packages used, and data used to test the script.
 
 ## Requirements
 
